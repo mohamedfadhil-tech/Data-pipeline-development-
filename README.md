@@ -75,8 +75,9 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/titanic.csv
 You can replace this with your own dataset by updating the URL or file path.
 
 📈 Output
-After running the script, you'll see output like:
 
+After running the script, you'll see output like:
+<img width="604" height="625" alt="Image" src="https://github.com/user-attachments/assets/45325ea2-bc81-42f6-931e-ee9759f4079a" />
 
 Done By:
 Mohamed Fadhil U.F
