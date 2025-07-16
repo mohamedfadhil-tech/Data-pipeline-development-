@@ -2,9 +2,13 @@
 
 ## Internship Credentials
 *Company* : CodTech IT Solutions
+
 *Name* : Mohamed Fadhil U.F
+
 *Intern ID* : CITSOD822
+
 *Domain* : Data Science
+
 *Duration* : Neela Santhosh
 
 ## Task 1: ETL (Extract, Transform, Load) Pipeline Using Pandas and Scikit-Learn
