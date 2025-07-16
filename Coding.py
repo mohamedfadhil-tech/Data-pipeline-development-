@@ -1,9 +1,15 @@
 # Data-pipeline-development-
 
-import pandas as pd from sklearn.preprocessing import StandardScaler, OneHotEncoder from sklearn.compose import ColumnTransformer from sklearn.pipeline import Pipeline from sklearn.impute import SimpleImputer from sklearn.model_selection import train_test_split
+import pandas as pd from sklearn.preprocessing 
+import StandardScaler, OneHotEncoder from sklearn.compose 
+import ColumnTransformer from sklearn.pipeline 
+import Pipeline from sklearn.impute 
+import SimpleImputer from sklearn.model_selection 
+import train_test_split
 
 ## Load dataset (using example dataset - replace with your own if needed)
-url = "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/titanic.csv" df = pd.read_csv(url)
+url = "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/titanic.csv" 
+df = pd.read_csv(url)
 
 ## Display basic info
 
