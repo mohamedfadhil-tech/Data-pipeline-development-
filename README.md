@@ -9,7 +9,10 @@
 
 *Domain* : Data Science
 
-*Duration* : Neela Santhosh
+*Duration* : 4 weeks
+
+*mentor*   :neela santhosh
+
 
 ## Task 1: ETL (Extract, Transform, Load) Pipeline Using Pandas and Scikit-Learn
 
